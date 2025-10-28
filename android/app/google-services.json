@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988503033431",
+    "project_id": "flutterlatihanfcm",
+    "storage_bucket": "flutterlatihanfcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988503033431:android:384d8fbb5996db0ad68512",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWRnGtol3whfFXoE7z5t0XZGAv_7_Fm0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
