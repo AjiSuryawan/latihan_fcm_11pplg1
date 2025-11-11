@@ -2,6 +2,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/home_page.dart';
+import 'package:flutter_application_1/login_google.dart';
 import 'package:get/get.dart';
 
 // Background message handler
@@ -30,7 +31,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const HomePage(),
+      // home: const HomePage(),
+      home: const LoginGoogle(),
     );
   }
 }
